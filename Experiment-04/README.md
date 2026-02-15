@@ -28,16 +28,16 @@ Both algorithms are implemented in:
 ---
 
 ## 📂 Project Structure
-├── C
-│ ├── merge_sort.c
-│ └── binary_search.c
-│
-├── CPP
-│ ├── merge_sort.cpp
-│ └── binary_search.cpp
-│
-└── README.md
-
+├── C  
+│ ├── merge_sort.c  
+│ └── binary_search.c  
+│  
+├── CPP  
+│ ├── merge_sort.cpp  
+│ └── binary_search.cpp  
+│  
+└── README.md  
+  
 ---
 
 ## 🧠 Key Concepts
