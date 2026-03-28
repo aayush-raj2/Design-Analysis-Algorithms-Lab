@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    string X = "ABCDGH";
+    string X = "ABCDGH"; 
     string Y = "AEDFHR";
 
     int n = X.length();
