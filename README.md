@@ -37,7 +37,7 @@ Each experiment contains:
 ---
 
 ## 🛠️ Technologies Used
-- Programming Language: C / C++ (or mention what you use)
+- Programming Language: C / C++
 - Platform: Linux / Windows
 - Compiler: GCC / G++
 
