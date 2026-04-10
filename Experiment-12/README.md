@@ -8,7 +8,7 @@ This repository demonstrates two fundamental string matching techniques:
 
 The goal is to efficiently find occurrences of a **pattern** within a **text**.
 
----
+--- 
 
 ## 🧠 Problem Definition
 
